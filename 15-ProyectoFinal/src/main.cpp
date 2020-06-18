@@ -547,9 +547,6 @@ std::vector<bool> sourcesPlayGema = { true, true, true, true, true, true, true }
 void reshapeCallback(GLFWwindow *Window, int widthRes, int heightRes);
 void keyCallback(GLFWwindow *window, int key, int scancode, int action,
 	int mode);
-void mouseCallback(GLFWwindow *window, double xpos, double ypos);
-void mouseButtonCallback(GLFWwindow *window, int button, int state, int mod);
-void scrollCallback(GLFWwindow* window, double xoffset, double yoffset);
 void initParticleBuffers();
 void initParticleBuffersTopito();
 void init(int width, int height, std::string strTitle, bool bFullScreen);
@@ -968,9 +965,6 @@ void init(int width, int height, std::string strTitle, bool bFullScreen) {
 
 	glfwSetWindowSizeCallback(window, reshapeCallback);
 	glfwSetKeyCallback(window, keyCallback);
-	glfwSetCursorPosCallback(window, mouseCallback);
-	glfwSetMouseButtonCallback(window, mouseButtonCallback);
-	glfwSetScrollCallback(window, scrollCallback);
 	glfwSetInputMode(window, GLFW_STICKY_KEYS, GL_TRUE);
 
 	// Init glew
@@ -1865,18 +1859,6 @@ void keyCallback(GLFWwindow *window, int key, int scancode, int action,
 			break;
 		}
 	}
-}
-
-void mouseCallback(GLFWwindow *window, double xpos, double ypos) {
-	offsetX = xpos - lastMousePosX;
-	offsetY = ypos - lastMousePosY;
-	lastMousePosX = xpos;
-	lastMousePosY = ypos;
-}
-
-void scrollCallback(GLFWwindow* window, double xoffset, double yoffset) {
-	distanceFromTarget -= yoffset;
-	camera->setDistanceFromTarget(distanceFromTarget);
 }
 
 void mouseButtonCallback(GLFWwindow *window, int button, int state, int mod) {
@@ -3962,9 +3944,6 @@ void renderScene(bool renderParticles) {
 			float region = terrainLogic.getHeightTerrain(modelMatrixLambo[3][0], modelMatrixLambo[3][2]);
 			float terrenoInicio = terrainLogicInicio.getHeightTerrain(modelMatrixLambo[3][0], modelMatrixLambo[3][2]);
 
-			modelMatrixLambo[2] = glm::vec4(axisz, 0.0);
-			modelMatrixLambo[1] = glm::vec4(normal1, 0.0);
-
 			//Izquierda enfrente
 			modelMatrixLambo = glm::translate(modelMatrixLambo, glm::vec3(-0.83827, 0.17224, 1.47627));
 			float region2 = terrainLogic.getHeightTerrain(modelMatrixLambo[3][0], modelMatrixLambo[3][2]);
@@ -3985,6 +3964,8 @@ void renderScene(bool renderParticles) {
 			float region5 = terrainLogic.getHeightTerrain(modelMatrixLambo[3][0], modelMatrixLambo[3][2]);
 			modelMatrixLambo = glm::translate(modelMatrixLambo, glm::vec3(-0.83827, 0.17224, 1.47627));
 
+			modelMatrixLambo[2] = glm::vec4(axisz, 0.0);
+			modelMatrixLambo[1] = glm::vec4(normal1, 0.0);
 
 
 			if (region <= 0 || region2 <= 0 || region3 <= 0 || region4 <= 0 || region5 <= 0)
