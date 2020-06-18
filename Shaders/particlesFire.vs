@@ -7,7 +7,7 @@ layout (location = 2) in float VertexAge;
 out float Transp;
 out vec2 TexCoord;
 
-// Output to transform feedback
+// Output to transform feedback, se pueden leer estas variables en el programa principal
 out vec3 Position;
 out vec3 Velocity;
 out float Age;
@@ -48,6 +48,7 @@ const vec2 texCoords[] = vec2[](vec2(0,0), vec2(1,0), vec2(1,1), vec2(0,0), vec2
 
 void main()
 {
+	// Fase 1, calculo de la posicion, velocidad y edad 
 	if(Pass == 1){
 		Age = VertexAge + DeltaT;
 
@@ -63,6 +64,7 @@ void main()
 	        Velocity = VertexVelocity + Accel * DeltaT;
 	    }
 	}
+	//Fase 2. Se renderiza la escena 
 	else{
 		Transp = 0.0;
 	    if(VertexAge >= 0.0) {

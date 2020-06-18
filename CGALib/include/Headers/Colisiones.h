@@ -57,6 +57,30 @@ void addOrUpdateColliders(
 		std::get<1>(it->second) = std::get<2>(it->second);
 }
 
+void addOrUpdateColliders(
+	std::map<std::string,
+	std::tuple<AbstractModel::CBB, glm::mat4, glm::mat4> > &colliders,
+	std::string name, AbstractModel::CBB collider, glm::mat4 transform) {
+	std::map<std::string, std::tuple<AbstractModel::CBB, glm::mat4, glm::mat4> >::iterator it =
+		colliders.find(name);
+	if (it != colliders.end()) {
+		std::get<0>(it->second) = collider;
+		std::get<2>(it->second) = transform;
+	}
+	else
+		colliders[name] = std::make_tuple(collider, glm::mat4(1.0), transform);
+}
+
+void addOrUpdateColliders(
+	std::map<std::string,
+	std::tuple<AbstractModel::CBB, glm::mat4, glm::mat4> > &colliders,
+	std::string name) {
+	std::map<std::string, std::tuple<AbstractModel::CBB, glm::mat4, glm::mat4> >::iterator it =
+		colliders.find(name);
+	if (it != colliders.end())
+		std::get<1>(it->second) = std::get<2>(it->second);
+}
+
 void addOrUpdateCollisionDetection(std::map<std::string, bool> &collisionDetector,
 		std::string name, bool isCollision) {
 	std::map<std::string, bool>::iterator colIt = collisionDetector.find(name);
@@ -129,6 +153,7 @@ bool testSphereOBox(AbstractModel::SBB sbb, AbstractModel::OBB obb){
 		return true;
 	return false;
 }
+
 bool testOBBOBB(AbstractModel::OBB a, AbstractModel::OBB b){
 	float EPSILON = 0.0001;
 	float ra, rb;
@@ -210,5 +235,47 @@ bool testOBBOBB(AbstractModel::OBB a, AbstractModel::OBB b){
 	return true;
 }
 
+bool testCylinderSphere(AbstractModel::CBB cbb, AbstractModel::SBB sbb) {
+	AbstractModel::CBB aux;
+	float aux2, aux3;
+	aux.c.x = cbb.c.x - sbb.c.x;
+	aux.c.z = cbb.c.z - sbb.c.z;
+	aux2 = (aux.c.x*aux.c.x) + (aux.c.z*aux.c.z);
+	aux3 = cbb.ratio + sbb.ratio;
+
+	if (aux2 <= (aux3*aux3))
+	{
+		aux.c.y = cbb.c.y - sbb.c.y;
+		if (aux.c.y < (cbb.heigth + (sbb.ratio * 2)))
+			return true;
+		else
+			return false;
+	}
+	else
+		return false;
+}
+
+bool testCylinderOBox(AbstractModel::CBB cbb, AbstractModel::OBB obb) {
+	float d = 0;
+	glm::quat qinv = glm::inverse(obb.u);
+	cbb.c = qinv * glm::vec4(cbb.c, 1.0);
+	obb.c = qinv * glm::vec4(obb.c, 1.0);
+	AbstractModel::AABB aabb;
+	aabb.mins = obb.c - obb.e;
+	aabb.maxs = obb.c + obb.e;
+	if (cbb.c[0] >= aabb.mins[0] && cbb.c[0] <= aabb.maxs[0]
+		&& cbb.c[1] >= aabb.mins[1] && cbb.c[1] <= aabb.maxs[1]
+		&& cbb.c[2] >= aabb.mins[2] && cbb.c[2] <= aabb.maxs[2])
+		return true;
+	for (int i = 0; i < 3; i++) {
+		if (cbb.c[i] < aabb.mins[i])
+			d += (cbb.c[i] - aabb.mins[i]) * (cbb.c[i] - aabb.mins[i]);
+		else if (cbb.c[i] > aabb.maxs[i])
+			d += (cbb.c[i] - aabb.maxs[i]) * (cbb.c[i] - aabb.maxs[i]);
+	}
+	if (d <= cbb.ratio * cbb.ratio)
+		return true;
+	return false;
+}
 
 #endif /* COLISIONES_H_ */

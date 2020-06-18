@@ -1,0 +1,2064 @@
+# Blender MTL File: 'None'
+# Material Count: 170
+
+newmtl ChCon_IT_Bee_01_02_1_1_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\ChCon_IT_Bee_01_02_1_1.tga.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\ChCon_IT_Bee_01_02_1_1.tga.png
+
+newmtl bdg_004A_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\bdg_004A.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\bdg_004A.bmp.png
+
+newmtl bdg_011_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\bdg_011.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\bdg_011.bmp.png
+
+newmtl bdg_011b_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\bdg_011b.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\bdg_011b.bmp.png
+
+newmtl bdg_012_candy_floor_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\bdg_012_candy_floor.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\bdg_012_candy_floor.bmp.png
+
+newmtl bdg_012_jackhouse_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\bdg_012_jackhouse.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\bdg_012_jackhouse.bmp.png
+
+newmtl bri_024_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\bri_024.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\bri_024.bmp.png
+
+newmtl bridge_candyShape_mtl_024_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\mtl_024.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\mtl_024.bmp.png
+
+newmtl bridge_mushroomShape_mtl_024_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\mtl_024.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\mtl_024.bmp.png
+
+newmtl bridge_mushroomShape_wud_038_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\wud_038.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\wud_038.bmp.png
+
+newmtl brk_057_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\brk_057.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\brk_057.bmp.png
+
+newmtl brk_058_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\brk_058.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\brk_058.bmp.png
+
+newmtl clouds_trackShape_mtl_024_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\mtl_024.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\mtl_024.bmp.png
+
+newmtl com_Bee_01_02_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\com_Bee_01_02.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\com_Bee_01_02.bmp.png
+
+newmtl com_IT_Pig_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\com_IT_Pig.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\com_IT_Pig.bmp.png
+
+newmtl com_cupcake01_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\com_cupcake01.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\com_cupcake01.bmp.png
+
+newmtl com_cupcake02_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\com_cupcake02.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\com_cupcake02.bmp.png
+
+newmtl con_105_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\con_105.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\con_105.bmp.png
+
+newmtl con_106_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\con_106.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\con_106.bmp.png
+
+newmtl con_107_checkers_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\con_107_checkers.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\con_107_checkers.bmp.png
+
+newmtl croc_chimneyShape3_mtl_075_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\mtl_075.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\mtl_075.bmp.png
+
+newmtl croc_manifoldShape1_mtl_075_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\mtl_075.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\mtl_075.bmp.png
+
+newmtl croc_manifoldShape2_mtl_075_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\mtl_075.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\mtl_075.bmp.png
+
+newmtl croc_manifoldShape3_mtl_075_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\mtl_075.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\mtl_075.bmp.png
+
+newmtl croc_manifoldShape_mtl_075_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\mtl_075.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\mtl_075.bmp.png
+
+newmtl dark_forest_trackShape_con_106_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\con_106.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\con_106.bmp.png
+
+newmtl drt_016_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\drt_016.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\drt_016.bmp.png
+
+newmtl drt_017_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\drt_017.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\drt_017.bmp.png
+
+newmtl giants_steps_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\giants_steps.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\giants_steps.bmp.png
+
+newmtl gls_012_stained_rainbow_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\gls_012_stained_rainbow.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\gls_012_stained_rainbow.bmp.png
+
+newmtl grass_dry_colour2_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\grass_dry_colour2.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\grass_dry_colour2.bmp.png
+
+newmtl ladybug_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\ladybug.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\ladybug.bmp.png
+
+newmtl layeredShader1
+Ns 0.000000
+Ka 0.500000 0.500000 0.500000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\pla_008.tga.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\pla_008.tga.png
+map_d C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\pla_008.tga.png
+
+newmtl layeredShader10
+Ns 0.000000
+Ka 0.500000 0.500000 0.500000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\sin_042b.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\sin_042b.bmp.png
+map_d C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\sin_042b_outline.tga.png
+
+newmtl layeredShader11
+Ns 0.000000
+Ka 0.500000 0.500000 0.500000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\sin_042b.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\sin_042b.bmp.png
+map_d C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\sin_042b_outline.tga.png
+
+newmtl layeredShader12
+Ns 0.000000
+Ka 0.500000 0.500000 0.500000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\sin_042b.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\sin_042b.bmp.png
+map_d C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\sin_042b_outline.tga.png
+
+newmtl layeredShader13
+Ns 0.000000
+Ka 0.500000 0.500000 0.500000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\sin_042b.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\sin_042b.bmp.png
+map_d C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\sin_042b_outline.tga.png
+
+newmtl layeredShader14
+Ns 0.000000
+Ka 0.500000 0.500000 0.500000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\sin_042b.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\sin_042b.bmp.png
+map_d C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\sin_042b_outline.tga.png
+
+newmtl layeredShader15
+Ns 0.000000
+Ka 0.500000 0.500000 0.500000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\sin_042b.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\sin_042b.bmp.png
+map_d C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\sin_042b_outline.tga.png
+
+newmtl layeredShader16
+Ns 0.000000
+Ka 0.500000 0.500000 0.500000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\sin_042b.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\sin_042b.bmp.png
+map_d C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\sin_042b_outline.tga.png
+
+newmtl layeredShader17
+Ns 0.000000
+Ka 0.500000 0.500000 0.500000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\sin_042b.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\sin_042b.bmp.png
+map_d C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\sin_042b_outline.tga.png
+
+newmtl layeredShader18
+Ns 0.000000
+Ka 0.500000 0.500000 0.500000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\sin_042b.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\sin_042b.bmp.png
+map_d C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\sin_042b_outline.tga.png
+
+newmtl layeredShader19
+Ns 0.000000
+Ka 0.500000 0.500000 0.500000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\sin_042b.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\sin_042b.bmp.png
+map_d C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\sin_042b_outline.tga.png
+
+newmtl layeredShader2
+Ns 0.000000
+Ka 0.500000 0.500000 0.500000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\dam_001.tga.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\dam_001.tga.png
+map_d C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\dam_001.tga.png
+
+newmtl layeredShader20
+Ns 0.000000
+Ka 0.500000 0.500000 0.500000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\sin_042b.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\sin_042b.bmp.png
+map_d C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\sin_042b_outline.tga.png
+
+newmtl layeredShader21
+Ns 0.000000
+Ka 0.500000 0.500000 0.500000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\sin_042b.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\sin_042b.bmp.png
+map_d C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\sin_042b_outline.tga.png
+
+newmtl layeredShader22
+Ns 0.000000
+Ka 0.500000 0.500000 0.500000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\sin_042b.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\sin_042b.bmp.png
+map_d C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\sin_042b_outline.tga.png
+
+newmtl layeredShader23
+Ns 0.000000
+Ka 0.500000 0.500000 0.500000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\sin_042b.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\sin_042b.bmp.png
+map_d C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\sin_042b_outline.tga.png
+
+newmtl layeredShader24
+Ns 0.000000
+Ka 0.500000 0.500000 0.500000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\sin_042b.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\sin_042b.bmp.png
+map_d C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\sin_042b_outline.tga.png
+
+newmtl layeredShader25
+Ns 0.000000
+Ka 0.500000 0.500000 0.500000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\sin_042b.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\sin_042b.bmp.png
+map_d C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\sin_042b_outline.tga.png
+
+newmtl layeredShader26
+Ns 0.000000
+Ka 0.500000 0.500000 0.500000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\sin_042b.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\sin_042b.bmp.png
+map_d C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\sin_042b_outline.tga.png
+
+newmtl layeredShader3
+Ns 0.000000
+Ka 0.500000 0.500000 0.500000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\wud_007.tga.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\wud_007.tga.png
+map_d C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\wud_007.tga.png
+
+newmtl layeredShader4
+Ns 0.000000
+Ka 0.500000 0.500000 0.500000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\mtl_006.tga.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\mtl_006.tga.png
+map_d C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\mtl_006.tga.png
+
+newmtl layeredShader5
+Ns 0.000000
+Ka 0.500000 0.500000 0.500000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\mtl_006.tga.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\mtl_006.tga.png
+map_d C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\mtl_006.tga.png
+
+newmtl layeredShader6
+Ns 0.000000
+Ka 0.500000 0.500000 0.500000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\wud_014.tga.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\wud_014.tga.png
+map_d C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\wud_014.tga.png
+
+newmtl layeredShader7
+Ns 0.000000
+Ka 0.500000 0.500000 0.500000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\pla_bush_facade_001.tga.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\pla_bush_facade_001.tga.png
+map_d C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\pla_bush_facade_001.tga.png
+
+newmtl layeredShader8
+Ns 0.000000
+Ka 0.500000 0.500000 0.500000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\pla_bush_facade_001.tga.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\pla_bush_facade_001.tga.png
+map_d C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\pla_bush_facade_001.tga.png
+
+newmtl layeredShader9
+Ns 0.000000
+Ka 0.500000 0.500000 0.500000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\sin_042b.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\sin_042b.bmp.png
+map_d C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\sin_042b_outline.tga.png
+
+newmtl mach_motorShape_mtl_075_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\mtl_075.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\mtl_075.bmp.png
+
+newmtl machine_motorShape_mtl_075_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\mtl_075.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\mtl_075.bmp.png
+
+newmtl mtl_006_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\mtl_006.tga.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\mtl_006.tga.png
+
+newmtl mtl_006_m2
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\mtl_006.tga.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\mtl_006.tga.png
+
+newmtl mtl_022_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\mtl_022.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\mtl_022.bmp.png
+
+newmtl mtl_024_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\mtl_024.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\mtl_024.bmp.png
+
+newmtl mtl_026bolts02_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\mtl_026bolts02.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\mtl_026bolts02.bmp.png
+
+newmtl mtl_046_linked_chain_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\mtl_046_linked_chain.tga.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\mtl_046_linked_chain.tga.png
+
+newmtl mtl_046_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\mtl_046.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\mtl_046.bmp.png
+
+newmtl mtl_048_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\mtl_048.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\mtl_048.bmp.png
+
+newmtl mtl_062a_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\mtl_062a.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\mtl_062a.bmp.png
+
+newmtl mtl_070_giant_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\mtl_070_giant.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\mtl_070_giant.bmp.png
+
+newmtl mtl_071_candy_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\mtl_071_candy.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\mtl_071_candy.bmp.png
+
+newmtl mtl_072_gold_coin_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\mtl_072_gold_coin.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\mtl_072_gold_coin.bmp.png
+
+newmtl mtl_075_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\mtl_075.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\mtl_075.bmp.png
+
+newmtl mtl_076_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\mtl_076.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\mtl_076.bmp.png
+
+newmtl mtl_083_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\mtl_083.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\mtl_083.bmp.png
+
+newmtl mtl_100_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\mtl_100.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\mtl_100.bmp.png
+
+newmtl mtl_125_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\mtl_125.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\mtl_125.bmp.png
+
+newmtl mtl_126_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\mtl_126.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\mtl_126.bmp.png
+
+newmtl mtl_127_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\mtl_127.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\mtl_127.bmp.png
+
+newmtl mush_track1Shape_con_106_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\con_106.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\con_106.bmp.png
+
+newmtl mush_track1Shape_drt_017_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\drt_017.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\drt_017.bmp.png
+
+newmtl mush_trackShape_con_106_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\con_106.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\con_106.bmp.png
+
+newmtl mush_trackShape_drt_017_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\drt_017.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\drt_017.bmp.png
+
+newmtl pistonShape1_mtl_024_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\mtl_024.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\mtl_024.bmp.png
+
+newmtl pistonShape1_mtl_075_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\mtl_075.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\mtl_075.bmp.png
+
+newmtl pistonShape2_mtl_024_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\mtl_024.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\mtl_024.bmp.png
+
+newmtl pistonShape2_mtl_075_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\mtl_075.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\mtl_075.bmp.png
+
+newmtl pistonShape3_mtl_024_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\mtl_024.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\mtl_024.bmp.png
+
+newmtl pistonShape3_mtl_075_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\mtl_075.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\mtl_075.bmp.png
+
+newmtl pistonShape_mtl_024_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\mtl_024.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\mtl_024.bmp.png
+
+newmtl pistonShape_mtl_075_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\mtl_075.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\mtl_075.bmp.png
+
+newmtl pla_bean_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\pla_bean.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\pla_bean.bmp.png
+
+newmtl pla_beanstalk_leaf_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\pla_beanstalk_leaf.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\pla_beanstalk_leaf.bmp.png
+
+newmtl pla_beanstalk_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\pla_beanstalk.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\pla_beanstalk.bmp.png
+
+newmtl pla_canopy01_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\pla_canopy01.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\pla_canopy01.bmp.png
+
+newmtl pla_flower02_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\pla_flower02.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\pla_flower02.bmp.png
+
+newmtl pla_grass003_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\pla_grass003.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\pla_grass003.bmp.png
+
+newmtl pla_leaf_002_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\pla_leaf_002.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\pla_leaf_002.bmp.png
+
+newmtl pla_mushroom_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\pla_mushroom.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\pla_mushroom.bmp.png
+
+newmtl pla_treewall_005_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\pla_treewall_005.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\pla_treewall_005.bmp.png
+
+newmtl polySurfaceShape803_mtl_075_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\mtl_075.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\mtl_075.bmp.png
+
+newmtl polySurfaceShape808_mtl_024_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\mtl_024.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\mtl_024.bmp.png
+
+newmtl polySurfaceShape808_mtl_125_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\mtl_125.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\mtl_125.bmp.png
+
+newmtl polySurfaceShape808_pla_beanstalk_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\pla_beanstalk.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\pla_beanstalk.bmp.png
+
+newmtl polySurfaceShape810_mtl_125_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\mtl_125.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\mtl_125.bmp.png
+
+newmtl polySurfaceShape810_win_001_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\win_001.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\win_001.bmp.png
+
+newmtl polySurfaceShape813_pla_bean_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\pla_bean.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\pla_bean.bmp.png
+
+newmtl polySurfaceShape813_pla_beanstalk_leaf_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\pla_beanstalk_leaf.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\pla_beanstalk_leaf.bmp.png
+
+newmtl polySurfaceShape813_pla_beanstalk_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\pla_beanstalk.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\pla_beanstalk.bmp.png
+
+newmtl polySurfaceShape817_brk_057_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\brk_057.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\brk_057.bmp.png
+
+newmtl polySurfaceShape817_giants_steps_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\giants_steps.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\giants_steps.bmp.png
+
+newmtl polySurfaceShape817_mtl_125_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\mtl_125.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\mtl_125.bmp.png
+
+newmtl polySurfaceShape817_pla_beanstalk_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\pla_beanstalk.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\pla_beanstalk.bmp.png
+
+newmtl polySurfaceShape817_sky_010_cloud_backwall_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\sky_010_cloud_backwall.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\sky_010_cloud_backwall.bmp.png
+
+newmtl polySurfaceShape817_wud_001_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\wud_001.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\wud_001.bmp.png
+
+newmtl polySurfaceShape817_wud_038_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\wud_038.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\wud_038.bmp.png
+
+newmtl polySurfaceShape818_pla_beanstalk_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\pla_beanstalk.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\pla_beanstalk.bmp.png
+
+newmtl polySurfaceShape820_pla_beanstalk_leaf_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\pla_beanstalk_leaf.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\pla_beanstalk_leaf.bmp.png
+
+newmtl polySurfaceShape821_pla_beanstalk_leaf_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\pla_beanstalk_leaf.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\pla_beanstalk_leaf.bmp.png
+
+newmtl polySurfaceShape822_mtl_125_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\mtl_125.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\mtl_125.bmp.png
+
+newmtl polySurfaceShape822_wud_001_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\wud_001.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\wud_001.bmp.png
+
+newmtl polySurfaceShape822_wud_038_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\wud_038.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\wud_038.bmp.png
+
+newmtl polySurfaceShape822_wud_039_candy_backwall_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\wud_039_candy_backwall.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\wud_039_candy_backwall.bmp.png
+
+newmtl polySurfaceShape823_mtl_022_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\mtl_022.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\mtl_022.bmp.png
+
+newmtl polySurfaceShape823_mtl_125_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\mtl_125.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\mtl_125.bmp.png
+
+newmtl polySurfaceShape823_pla_treewall_005_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\pla_treewall_005.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\pla_treewall_005.bmp.png
+
+newmtl polySurfaceShape824_sky_010_cloud_backwall_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\sky_010_cloud_backwall.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\sky_010_cloud_backwall.bmp.png
+
+newmtl polySurfaceShape824_wud_001_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\wud_001.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\wud_001.bmp.png
+
+newmtl polySurfaceShape829_pla_beanstalk_leaf_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\pla_beanstalk_leaf.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\pla_beanstalk_leaf.bmp.png
+
+newmtl polySurfaceShape829_pla_beanstalk_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\pla_beanstalk.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\pla_beanstalk.bmp.png
+
+newmtl polySurfaceShape832_mtl_026bolts02_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\mtl_026bolts02.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\mtl_026bolts02.bmp.png
+
+newmtl polySurfaceShape832_mtl_125_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\mtl_125.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\mtl_125.bmp.png
+
+newmtl polySurfaceShape832_pla_grass003_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\pla_grass003.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\pla_grass003.bmp.png
+
+newmtl polySurfaceShape832_wud_001_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\wud_001.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\wud_001.bmp.png
+
+newmtl polySurfaceShape832_wud_038_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\wud_038.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\wud_038.bmp.png
+
+newmtl polySurfaceShape833_mtl_125_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\mtl_125.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\mtl_125.bmp.png
+
+newmtl polySurfaceShape833_mtl_127_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\mtl_127.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\mtl_127.bmp.png
+
+newmtl polySurfaceShape833_pla_grass003_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\pla_grass003.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\pla_grass003.bmp.png
+
+newmtl polySurfaceShape833_pla_leaf_002_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\pla_leaf_002.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\pla_leaf_002.bmp.png
+
+newmtl polySurfaceShape833_pla_mushroom_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\pla_mushroom.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\pla_mushroom.bmp.png
+
+newmtl polySurfaceShape833_wud_001_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\wud_001.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\wud_001.bmp.png
+
+newmtl polySurfaceShape833_wud_038_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\wud_038.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\wud_038.bmp.png
+
+newmtl polySurfaceShape_pla_beanstalk_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\pla_beanstalk.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\pla_beanstalk.bmp.png
+
+newmtl polySurfaceShape_wud_038_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\wud_038.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\wud_038.bmp.png
+
+newmtl pure3dSimpleShader5
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.313700 0.194500 0.131800
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl rck_010_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\rck_010.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\rck_010.bmp.png
+
+newmtl rck_050_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\rck_050.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\rck_050.bmp.png
+
+newmtl ruf_005_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\ruf_005.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\ruf_005.bmp.png
+
+newmtl ruf_006_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\ruf_006.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\ruf_006.bmp.png
+
+newmtl sdfg_pure3dSimpleShader5
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.313700 0.194500 0.131800
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl shortcut_machineShape1_wud_001_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\wud_001.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\wud_001.bmp.png
+
+newmtl shortcut_machineShape2_wud_001_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\wud_001.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\wud_001.bmp.png
+
+newmtl sign_meat_flavored_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\sign_meat_flavored.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\sign_meat_flavored.bmp.png
+
+newmtl sin_030_icecream_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\sin_030_icecream.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\sin_030_icecream.bmp.png
+
+newmtl sin_033_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\sin_033.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\sin_033.bmp.png
+
+newmtl sin_checkered02_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\sin_checkered02.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\sin_checkered02.bmp.png
+
+newmtl sky_010_cloud_backwall_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\sky_010_cloud_backwall.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\sky_010_cloud_backwall.bmp.png
+
+newmtl water008_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\water008.tga.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\water008.tga.png
+
+newmtl water_planeShape02_water008_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\water008.tga.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\water008.tga.png
+
+newmtl wheelShape1_mtl_075_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\mtl_075.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\mtl_075.bmp.png
+
+newmtl wheelShape4_mtl_075_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\mtl_075.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\mtl_075.bmp.png
+
+newmtl win_001_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\win_001.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\win_001.bmp.png
+
+newmtl win_002_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\win_002.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\win_002.bmp.png
+
+newmtl wud_001_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\wud_001.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\wud_001.bmp.png
+
+newmtl wud_020_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\wud_020.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\wud_020.bmp.png
+
+newmtl wud_026_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\wud_026.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\wud_026.bmp.png
+
+newmtl wud_037_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\wud_037.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\wud_037.bmp.png
+
+newmtl wud_038_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\wud_038.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\wud_038.bmp.png
+
+newmtl wud_039_candy_backwall_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\wud_039_candy_backwall.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\wud_039_candy_backwall.bmp.png
+
+newmtl wud_041a_m1
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\OneDrive\Documentos\10moSemestre\ComputacionGraficaAvanzada\models\Proyecto\Track And The Beanstalk\wud_041a.bmp.png
+map_Ka C:\\Users\\lizze\\OneDrive\\Documentos\\10moSemestre\\ComputacionGraficaAvanzada\\models\\Proyecto\\Track And The Beanstalk\\wud_041a.bmp.png

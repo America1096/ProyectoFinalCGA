@@ -47,6 +47,7 @@ Fecha: 08/02/2018
 
 class DLL_PUBLIC AbstractModel
 {
+	//Esfera
 public:
 	class SBB {
 	public:
@@ -60,6 +61,21 @@ public:
 
 		glm::vec3 c;
 		float ratio;
+	};
+	//cilindro
+	class CBB {
+	public:	
+		CBB() {
+		}
+
+		CBB(glm::vec3 c, float ratio, float heigth) {
+			this->c = c;
+			this->ratio = ratio;
+			this->heigth = heigth;
+		}
+		glm::vec3 c;
+		float ratio;
+		float heigth;
 	};
 
 	class AABB {
@@ -169,6 +185,8 @@ public:
 		glBindVertexArray(VAO);
 		glm::mat4 scale = glm::scale(glm::mat4(1.0f), this->scale);
 		glm::mat4 translate = glm::translate(glm::mat4(1.0f), this->position);
+		glm::mat4 rotate = glm::rotate(glm::mat4(1.0f), this->rotacion, glm::vec3(0, 1, 0));
+
 		glm::quat oX = glm::angleAxis<float>(glm::radians(orientation.x), glm::vec3(1.0, 0.0, 0.0));
 		glm::quat oY = glm::angleAxis<float>(glm::radians(orientation.y), glm::vec3(0.0, 1.0, 0.0));
 		glm::quat oZ = glm::angleAxis<float>(glm::radians(orientation.z), glm::vec3(0.0, 0.0, 1.0));
@@ -227,6 +245,10 @@ public:
 		this->orientation = orientation;
 	}
 
+	void setRotacion(float rotacion) {
+		this->rotacion = rotacion;
+	}
+
 	void enableWireMode() {
 		glPolygonMode(GL_FRONT_AND_BACK, GL_LINE);
 	}
@@ -258,11 +280,17 @@ public:
 		return obb;
 	}
 
+	const CBB& getCbb() const {
+		return cbb;
+	}
+	
+
 
 protected:
 	Shader * shader_ptr;
 	glm::vec3 position = glm::vec3(0.0, 0.0, 0.0);
 	glm::vec3 scale = glm::vec3(1.0, 1.0, 1.0);
+	float rotacion = 0.0;
 	glm::vec4 color;
 	glm::vec3 orientation;
 	GLuint VAO, VBO, EBO;
@@ -271,6 +299,7 @@ protected:
 	AABB aabb;
 	SBB sbb;
 	OBB obb;
+	CBB cbb;
 };
 
 #endif // ABSTRACTMODEL_H

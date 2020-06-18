@@ -10,7 +10,7 @@ layout ( location = 0 ) out vec4 FragColor;
 void main()
 {
     FragColor = texture(ParticleTex, TexCoord);
-    // Mix with black as it gets older, to simulate a bit of smoke
+    // Mix with black as it gets older, to simulate a bit of smoke, la siguiente linea permite cambiar el color del humo 
     FragColor = vec4(mix( vec3(0,0,0), FragColor.xyz, Transp ), FragColor.a);
     FragColor.a *= Transp;
 }

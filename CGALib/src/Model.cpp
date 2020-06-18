@@ -9,6 +9,7 @@
 #include "Headers/TimeManager.h"
 #include "Headers/mathUtil.h"
 
+
 Model::Model() {
 	this->aabb.mins.x = FLT_MAX;
 	this->aabb.mins.y = FLT_MAX;
@@ -82,23 +83,45 @@ void Model::loadModel(const std::string & path) {
 	// Se procesa el nodo raiz recursivamente.
 	this->processNode(scene->mRootNode, scene);
 
-	// Se crea la SBB
-	this->sbb.c = glm::vec3((this->aabb.mins.x + this->aabb.maxs.x) / 2.0f,
-			(this->aabb.mins.y + this->aabb.maxs.y) / 2.0f,
-			(this->aabb.mins.z + this->aabb.maxs.z) / 2.0f);
-	this->sbb.ratio = sqrt(
-			pow(this->aabb.mins.x - this->aabb.maxs.x, 2)
-					+ pow(this->aabb.mins.y - this->aabb.maxs.y, 2)
-					+ pow(this->aabb.mins.z - this->aabb.maxs.z, 2)) / 2.0f;
-
-
 	// Se crea la obb
-	this->obb.c = this->sbb.c;
+	this->obb.c = glm::vec3((this->aabb.mins.x + this->aabb.maxs.x) / 2.0f, (this->aabb.mins.y + this->aabb.maxs.y) / 2.0f, (this->aabb.mins.z + this->aabb.maxs.z) / 2.0f);;
 	/*this->obb.e.x = aabb.maxs.x - aabb.mins.x;
 	this->obb.e.y = aabb.maxs.y - aabb.mins.y;
 	this->obb.e.z = aabb.maxs.z - aabb.mins.z;*/
 	this->obb.e = (aabb.maxs - aabb.mins) / 2.0f;
 	this->obb.u = glm::quat(0.0, 0.0, 0.0, 1);
+
+	// Se crea la SBB
+	this->sbb.c = this->obb.c;
+	float temx, temy, temz;
+	temx = sqrt(pow(this->aabb.maxs.x - this->sbb.c.x, 2));
+	temy = sqrt(pow(this->aabb.maxs.y - this->sbb.c.y, 2));
+	temz = sqrt(pow(this->aabb.maxs.z - this->sbb.c.z, 2));
+	
+	
+	if (temx >= temy && temx >= temz)  {
+		this->sbb.ratio = temx;
+	}
+	else if (temy >= temx && temy >= temz)  {
+		this->sbb.ratio = temy;
+	}
+	else if (temz >= temx && temz >= temy) {
+		this->sbb.ratio = temz;
+	}
+
+	//Se crea el CBB cilinder BB Cilindro
+	//centro
+	this->cbb.c = this->obb.c;
+	//radio, para optimizarlo solo se considera el más grande ya sea del eje X o Z
+/*	if (temx > temz)
+		this->cbb.ratio = temx;
+	else
+		this->cbb.ratio = temz;*/
+	this->cbb.ratio = sqrt(
+		pow(this->aabb.mins.x - this->aabb.maxs.x, 2)
+		+ pow(this->aabb.mins.z - this->aabb.maxs.z, 2)) / 2.0f;
+	//La altura del cilindro sera la altura maxima en Y menos la altura minima en Y, en valor absoluto por cualquier cosa.
+	this->cbb.heigth = abs(this->aabb.maxs.y - this->aabb.mins.y);
 }
 
 void Model::processNode(aiNode* node, const aiScene* scene) {

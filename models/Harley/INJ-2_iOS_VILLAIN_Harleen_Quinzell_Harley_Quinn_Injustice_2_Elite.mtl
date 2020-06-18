@@ -1,0 +1,13 @@
+# Blender3D MTL File: 
+# Material Count: 1
+newmtl INJ_iOS_VIL_HQU_IEL_B
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.025000 0.025000 0.025000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd INJ-2_iOS_VILLAIN_Harleen_Quinzell_Harley_Quinn_Injustice_2_Elite_Body_D.png
+
+

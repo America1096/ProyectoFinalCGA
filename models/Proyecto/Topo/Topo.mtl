@@ -1,0 +1,13 @@
+# Blender MTL File: 'Topo.obj'
+# Material Count: 1
+
+newmtl RefRep.233_Mole_Texture.png
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.558431 0.558431 0.558431
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Texture\Mole Texture.png

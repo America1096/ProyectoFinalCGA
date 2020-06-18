@@ -1,8 +1,8 @@
-# Blender MTL File: 'None'
+# Blender MTL File: '2003eclipse_frontal_wheels.obj'
 # Material Count: 1
 
-newmtl tire
-Ns 94.117647
+newmtl tire.003
+Ns 92.156863
 Ka 0.000000 0.000000 0.000000
 Kd 0.000000 0.000000 0.000000
 Ks 0.500000 0.500000 0.500000
@@ -10,4 +10,4 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd texture_maps/wheel-diffuse.tga
+map_Kd texture_maps\wheel-diffuse.tga

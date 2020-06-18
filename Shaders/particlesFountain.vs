@@ -6,7 +6,7 @@ out float Transp;  // Transparency of the particle
 
 uniform float Time;  // Animation time
 uniform vec3 Gravity = vec3(0.0,-0.05,0.0);  // world coords
-uniform float ParticleLifetime;  // Max particle lifetime
+uniform float ParticleLifetime;  // Max particle lifetime, tiempo de vida de todo el sistema
 
 uniform mat4 model;
 uniform mat4 view;
@@ -23,8 +23,8 @@ void main()
         float t = Time - StartTime;
 
         if( t < ParticleLifetime ) {
-            pos = VertexInitVel * t + Gravity * t * t;
-            Transp = 1.0 - t / ParticleLifetime;
+            pos = VertexInitVel * t + Gravity * t * t; //Tiro parabolico
+            Transp = 1.0 - t / ParticleLifetime; //PAra que vaya desapareciando cuando va aumentando
         }
     }
 

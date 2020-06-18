@@ -110,6 +110,9 @@
     <ClInclude Include="include\Headers\ShadowBox.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
+    <ClInclude Include="include\Headers\Shaderft.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="..\Shaders\colorShader.fs">
@@ -200,6 +203,12 @@
       <Filter>Archivos de recursos</Filter>
     </None>
     <None Include="..\Shaders\texturizado_depth_view.fs">
+      <Filter>Archivos de recursos</Filter>
+    </None>
+    <None Include="..\Shaders\text.fs">
+      <Filter>Archivos de recursos</Filter>
+    </None>
+    <None Include="..\Shaders\text.vs">
       <Filter>Archivos de recursos</Filter>
     </None>
   </ItemGroup>
